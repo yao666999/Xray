@@ -359,7 +359,6 @@ main() {
                 ;;
             3)
                 modify_xray_port
-                break
                 ;;
             4)
                 echo -e "${GREEN}退出脚本${NC}"
